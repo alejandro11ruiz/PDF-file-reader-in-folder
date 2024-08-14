@@ -1,2 +1,4 @@
 *.pdf
 *.csv
+*.PDF
+*.pdf:Zone.Identifier
