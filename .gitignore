@@ -2,3 +2,6 @@
 *.csv
 *.PDF
 *.pdf:Zone.Identifier
+*.spec
+build/
+dist/
